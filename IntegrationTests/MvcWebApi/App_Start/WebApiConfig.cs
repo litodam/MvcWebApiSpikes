@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Web.Http;
 
-namespace MvcApplication8
+namespace MvcWebApi
 {
     public static class WebApiConfig
     {

@@ -1,10 +1,10 @@
-﻿namespace MvcApplication8.Tests
+﻿namespace MvcWebApi.Tests
 {
     using System;
     using System.Net.Http;
     using System.Net.Http.Headers;
     using Microsoft.VisualStudio.TestTools.UnitTesting;
-    using MvcApplication8.Controllers;
+    using MvcWebApi.Controllers;
     using Newtonsoft.Json.Linq;
 
     [TestClass]

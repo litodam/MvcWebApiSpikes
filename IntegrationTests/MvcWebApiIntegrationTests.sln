@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvcApplication8", "MvcApplication8\MvcApplication8.csproj", "{A6F339C7-FD14-4D77-95CF-D0A83B66A2F2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvcWebApi", "MvcWebApi\MvcWebApi.csproj", "{A6F339C7-FD14-4D77-95CF-D0A83B66A2F2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvcApplication8.Tests", "MvcApplication8.Tests\MvcApplication8.Tests.csproj", "{1A30BF6B-05CC-41AE-82F5-66A9EC9C51BE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvcWebApi.Integration.Tests", "MvcWebApi.Integration.Tests\MvcWebApi.Integration.Tests.csproj", "{1A30BF6B-05CC-41AE-82F5-66A9EC9C51BE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
