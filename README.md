@@ -1,4 +1,4 @@
-# MvcWebApiSpikes # 
+# MvcWebApiSpikes #
 
 Just for learning purposes. This is what I have so far:
 
